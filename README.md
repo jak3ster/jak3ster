@@ -20,8 +20,8 @@
 <img align="left" alt="GitHub" width="56px" src="https://img.icons8.com/bubbles/344/github.png" />
 <img align="left" alt="Terminal" width="56px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-terminal-computer-programming-flaticons-flat-flat-icons.png" />  
 
-<br>
-<br>
+<br/>
+<br/>
 
 ### Let's Connect!
 
@@ -32,12 +32,12 @@
 
 <a href="mailto:jautus@hotmail.com" target="_blank"><img img align="left" alt="Porfolio" width="36px" src="https://img.icons8.com/bubbles/344/new-post.png"></a>
 
-<br>
-<br>
+<br/>
+<br/>
 
 <div>
-<img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=jak3ster&show_icons=true&theme=calm" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jak3ster&layout=compact&theme=calm" />
+<img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=jak3ster&show_icons=true&theme=algolia" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jak3ster&layout=compact&theme=algolia" />
 </div>
 
 
