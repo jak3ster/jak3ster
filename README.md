@@ -18,7 +18,9 @@
 <img align="left" alt="Git" width="56px" src="https://img.icons8.com/color/344/git.png" />
 <img align="left" alt="MySQL" width="56px" src="https://img.icons8.com/fluency/344/mysql-logo.png" />
 <img align="left" alt="GitHub" width="56px" src="https://img.icons8.com/bubbles/344/github.png" />
-<img align="left" alt="Terminal" width="56px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-terminal-computer-programming-flaticons-flat-flat-icons.png" />  
+<img align="left" alt="Terminal" width="56px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-terminal-computer-programming-flaticons-flat-flat-icons.png" />
+<img align="left" alt="CSharp" width="56px" src="https://img.icons8.com/color/344/c-sharp-logo-2.png" />
+<img align="left" alt="PowerShell" width="56px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-powershell-a-task-based-command-line-shell-and-scripting-language-logo-shadow-tal-revivo.png" />
 
 <br/>
 <br/>
