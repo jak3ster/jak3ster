@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 - 💬 My name is Jay Autus.
-- 🌱 I’m graduated from University of California San Diego (UCSD) and obtained a certificate in full stack development, last September 2022
+- 🌱 I graduated from University of California San Diego (UCSD) and obtained a certificate in full stack development, last September 2022
 - 🔭 I’m currently working on polishing my skills in coding and applying what I have learned in class to my current work.
 - ⚡ Fun fact: I did not start coding as a profession but learned and grew to start with creating batch scripts to writing backend code in C#
 
